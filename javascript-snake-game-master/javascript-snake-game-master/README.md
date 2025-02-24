@@ -16,10 +16,6 @@ The snake is created and controlled using JavaScript, a versatile programming la
 The **JavaScript Snake Game source code** is carefully crafted to ensure efficient performance and smooth gameplay. The code incorporates advanced algorithms and logic to handle user input, update the snake's position, detect collisions, generate food items, and maintain the score. The result is a cohesive and robust game structure that ensures an exciting and bug-free experience.
 
 For beginner programmers interested in learning, the **JavaScript Snake Game code** serves as an excellent example to explore. It showcases how to implement keyboard event listeners, handle game loops, manage game state, and utilize advanced JavaScript techniques. By analyzing the source code, aspiring developers can gain valuable insights into game development and enhance their JavaScript skills.
-
-# Demo
-https://www.snake game.com/projects/javascript-snake-game/
-
 # License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
 
