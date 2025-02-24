@@ -18,10 +18,11 @@ The **JavaScript Snake Game source code** is carefully crafted to ensure efficie
 For beginner programmers interested in learning, the **JavaScript Snake Game code** serves as an excellent example to explore. It showcases how to implement keyboard event listeners, handle game loops, manage game state, and utilize advanced JavaScript techniques. By analyzing the source code, aspiring developers can gain valuable insights into game development and enhance their JavaScript skills.
 
 # Demo
-https://www.yusufsezer.com/projects/javascript-snake-game/
+https://www.snake game.com/projects/javascript-snake-game/
 
 # License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
 
 Created by [MURALI]
+
 
